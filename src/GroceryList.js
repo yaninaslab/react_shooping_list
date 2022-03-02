@@ -69,7 +69,7 @@ export class GroceryList extends Component {
           </ul>
           <div className="container">
             <button onClick={() => this.deleteItem()} className="btn delete">
-              Delete
+              Clear List
             </button>
           </div>
         </form>
